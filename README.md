@@ -16,4 +16,4 @@ This project is part of the Advanced Web Programming course - VNUHCMUS - 2024.
 
 ## Deployment
 
-- The project is deployed on ... at ...
+- The project is deployed on [Vercel](https://tic-tac-toe-azure-kappa.vercel.app)

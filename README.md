@@ -11,8 +11,8 @@ This project is part of the Advanced Web Programming course - VNUHCMUS - 2024.
 ## How to run
 
 1. Clone the repository
-2. Run `npm install`
-3. Run `npm run dev`
+2. Run `yarn install`
+3. Run `yarn run dev`
 
 ## Deployment
 

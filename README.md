@@ -1,4 +1,4 @@
-# React Tic Tac Toe
+# IA01 - React Tutorial
 
 This project is a simple Tic Tac Toe game built with React & Vite.
 This project is part of the Advanced Web Programming course - VNUHCMUS - 2024.
